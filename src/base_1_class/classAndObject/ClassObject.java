@@ -29,7 +29,7 @@ public class ClassObject {
         Item sword = new Item();
         sword.name = "长剑";
         sword.price = 350;
-        
+
     }
 
 
